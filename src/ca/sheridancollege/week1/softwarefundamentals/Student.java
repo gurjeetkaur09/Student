@@ -18,7 +18,7 @@ public class Student {
      *
      * @return the value of name
      */
-    public String getName() {
+    public String getName()(){ {
         return name;
     }
 
